@@ -89,19 +89,21 @@ Graduando do último período (8º) de **Ciência da Computação** na Universid
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Pimenta15&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Pimenta15&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pimenta15&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pimenta15&theme=gotham&show_icons=true&count_private=true&include_all_commits=true" alt="" />
+  <br><br>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pimenta15&theme=gotham&hide_border=false" alt="" />
+  <br><br>
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pimenta15&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="" />
 </div>
 
 ---
+
 <div align="center">
   <sub>⚡ Garchomp é o melhor Pokémon. Fato.</sub>
 </div>
