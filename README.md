@@ -26,7 +26,7 @@ Graduando do último período (8º) de **Ciência da Computação** na Universid
 **Pesquisador – Orientação: Prof. Iago Richards**
 - 🥇 **1º lugar no ciclo 2024/2025** na área de Ciências Exatas e da Terra
 - Projeto: Aplicação de **LLMs à saúde**, utilizando o dataset MIMIC-IV para classificação de dados clínicos
-- Coautor do artigo *"Generative Artificial Intelligence for Disease Treatment Recommendations: A Systematic Literature Review"* (periódico: Artificial Intelligence in Medicine)
+- Coautor de um artigo (periódico: Artificial Intelligence in Medicine) (Atualmente Submetido e em Revisão)
 - Continuidade no TCC 2 e no ciclo **PIBIC 2025/2026**
 
 ### 🌐 GPRT / CIn – UFPE *(2024 – 2025)*
